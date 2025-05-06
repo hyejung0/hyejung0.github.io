@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hyejung Lee",
+    "objectID": "projects/wait_for_test.html",
+    "href": "projects/wait_for_test.html",
+    "title": "Impact of waiting for molecular test result about targetable mutation on the survival of advanced non-small cell lung cancer patients",
     "section": "",
-    "text": "Ph.D. Candidate in Biostatistics & Precision Medicine Enthusiast\nLearn More ↓"
+    "text": "Introduction\nInitial assessment of the data and statistical analysis plan can be found here. Please note that this project is ongoing and is incomplete."
   },
   {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Hyejung Lee",
-    "section": "Welcome",
-    "text": "Welcome\nWelcome to my website! Here you will find previous projects, current projects I can share, contact information, and more! But the webstie is still under constructio and messy. So please understand. To learn more about my statistical interest, please click About\nIf there are any questions, comments, or concerns, please feel free to contact me."
+    "objectID": "projects/MBE.html",
+    "href": "projects/MBE.html",
+    "title": "Improving precision of chronic kidney disease’s treatment effect on clinical endpoint by incorporating surrogate endpoints",
+    "section": "",
+    "text": "Introduction\nI have to make the website for this…."
   },
   {
     "objectID": "main_about.html",
@@ -28,31 +28,31 @@
     "text": "Experience\nHuntsman Cancer Institute | Graduate Research Assistant | Aug 2020 - Present\nBiostatistics Intern | Regeneron Pharmaceuticals | May 2024 - Aug 2024\nBrigham Young University | Graduate Research Assistant | Aug 2018 - Aug 2020"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hyejung Lee",
+    "section": "",
+    "text": "Ph.D. Candidate in Biostatistics & Precision Medicine Enthusiast\nLearn More ↓"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Hyejung Lee",
+    "section": "Welcome",
+    "text": "Welcome\nWelcome to my website! Here you will find previous projects, current projects I can share, contact information, and more! But the webstie is still under constructio and messy. So please understand. To learn more about my statistical interest, please click About\nIf there are any questions, comments, or concerns, please feel free to contact me."
+  },
+  {
     "objectID": "main_projects.html",
     "href": "main_projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Here are some of project I’ve been working on.\nPresentations and tutorials I have done for different groups. Some of these pages are unrelated to my statistical interests, but follow other interests and can be helpful to other groups I have worked with and presented for.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImpact of waiting for molecular test result about targetable mutation on the survival of advanced non-small cell lung cancer patients\n\n\n\n\n\n\nHyejung Lee\n\n\nMay 5, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImproving precision of chronic kidney disease’s treatment effect on clinical endpoint by incorporating surrogate endpoints\n\n\n\n\n\n\nHyejung Lee\n\n\nMay 5, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrognostic value of body composition and in survival of lung cancer patients\n\n\n\n\n\n\nHyejung Lee\n\n\nMay 6, 2025\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/MBE.html",
-    "href": "projects/MBE.html",
-    "title": "Improving precision of chronic kidney disease’s treatment effect on clinical endpoint by incorporating surrogate endpoints",
-    "section": "",
-    "text": "Introduction\nI have to make the website for this…."
+    "text": "Here are some of project I’ve been working on.\nPresentations and tutorials I have done for different groups. Some of these pages are unrelated to my statistical interests, but follow other interests and can be helpful to other groups I have worked with and presented for.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImpact of waiting for molecular test result about targetable mutation on the survival of advanced non-small cell lung cancer patients\n\n\n\n\n\n\nHyejung Lee\n\n\nMay 6, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImproving precision of chronic kidney disease’s treatment effect on clinical endpoint by incorporating surrogate endpoints\n\n\n\n\n\n\nHyejung Lee\n\n\nMay 5, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrognostic value of body composition and in survival of lung cancer patients\n\n\n\n\n\n\nHyejung Lee\n\n\nMay 6, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/body_composition_serial.html",
     "href": "projects/body_composition_serial.html",
     "title": "Prognostic value of body composition and in survival of lung cancer patients",
     "section": "",
-    "text": "Introduction\nInitial assessment of the data and statistical analysis plan can be found here"
-  },
-  {
-    "objectID": "projects/wait_for_test.html",
-    "href": "projects/wait_for_test.html",
-    "title": "Impact of waiting for molecular test result about targetable mutation on the survival of advanced non-small cell lung cancer patients",
-    "section": "",
-    "text": "Introduction\nInitial assessment of the data and statistical analysis plan can be found here"
+    "text": "Introduction\nInitial assessment of the data and statistical analysis plan can be found here.\nThe result can be found here."
   }
 ]
