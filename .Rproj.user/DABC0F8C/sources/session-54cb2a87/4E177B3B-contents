@@ -1,11 +1,10 @@
 ---
 title: "Projects"
 listing: 
-  contents: 
-    - projects
+  contents: projects
   type: grid
-  fields: [image, date, title, subtitle, description]
-date: today
 ---
 
-A running list of past and current projects I can share. 
+Here are some of project I've been working on. 
+
+Presentations and tutorials I have done for different groups. Some of these pages are unrelated to my statistical interests, but follow other interests and can be helpful to other groups I have worked with and presented for. 

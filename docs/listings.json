@@ -8,6 +8,9 @@
   },
   {
     "listing": "/main_projects.html",
-    "items": []
+    "items": [
+      "/projects/wait_for_test.html",
+      "/projects/MBE.html"
+    ]
   }
 ]

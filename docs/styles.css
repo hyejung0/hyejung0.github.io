@@ -3,7 +3,7 @@
   position: relative;
   background:
     linear-gradient(rgba(33,150,243,0.85), rgba(30,136,229,0.85)),
-    url('docs/images/headshot.jpg') center/cover no-repeat;
+    url('headshot.jpg') center/cover no-repeat;
   padding: 6rem 1rem;
   text-align: center;
   color: #fff;
