@@ -1,0 +1,11 @@
+---
+title: "Projects"
+listing: 
+  contents: 
+    - projects
+  type: grid
+  fields: [image, date, title, subtitle, description]
+date: today
+---
+
+A running list of past and current projects I can share. 

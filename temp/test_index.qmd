@@ -1,0 +1,63 @@
+---
+title: "Home"
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false        # ← turn off that “On this page” sidebar
+---
+
+::: {.hero}
+# Hyejung Lee
+
+**Ph.D. Candidate in Biostatistics & Precision Medicine Enthusiast**
+
+[Learn More ↓](#about){.btn .btn-light .btn-lg .mt-3}
+:::
+
+# About Me {#about}
+
+I’m a Ph.D. candidate in biostatistics at the University of Utah. I love turning complex data into clear stories—whether it’s Bayesian models or precision-medicine pipelines. When I’m not coding in R, you’ll find me binge-watching Korean variety shows (ask me for recs!).
+
+# Research Interests
+
+- **Precision Medicine**  
+  Building models that tailor treatments at the individual level.
+- **Bayesian & MCMC**  
+  From Gibbs samplers to RStan, I enjoy the math under the hood.
+- **Dynamic Treatment Regimes**  
+  Designing adaptive interventions that evolve over time.
+
+# Featured Projects
+
+::: columns
+
+::: {.column width="1/3"}
+#### Prognostic Model for mCRPC
+
+Cox model + LASSO to predict survival in prostate cancer.
+
+[View project](projects/mcrpc.html){.btn .btn-outline-primary .mt-2}
+:::
+::: {.column width="1/3"}
+#### Bayesian Trivariate Updating
+
+Hierarchical MVN updating for clinical & surrogate endpoints.
+
+[View project](projects/bayes-trivar.html){.btn .btn-outline-primary .mt-2}
+:::
+::: {.column width="1/3"}
+#### This Quarto Website
+
+Built with Quarto + custom CSS.  
+[Explore the code →](index.html){.btn .btn-outline-primary .mt-2}
+:::
+
+:::
+
+<footer class="footer text-center mt-5 py-4">
+Connect with me:   
+[GitHub](https://github.com/yourusername){.mx-2}·  
+[LinkedIn](https://linkedin.com/in/yourprofile){.mx-2}·  
+[Email](mailto:you@example.com){.mx-2}
+</footer>

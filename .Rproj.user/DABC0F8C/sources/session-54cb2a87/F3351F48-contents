@@ -1,0 +1,63 @@
+---
+title: "Hyejung Lee"
+about:
+  template: trestles
+  image: headshot.jpg
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/hyejung0
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/hyejung-lee-b2249819b/
+    - icon: envelope
+      text: E-Mail
+      href: mailto:hyejung.lee@utah.edu
+    - icon: file-earmark-arrow-down
+      text: CV
+      href: CV_2025_May_Hyejung.docx
+---
+
+
+# About Me
+
+I’m a Ph.D. candidate in biostatistics at the University of Utah. I love turning complex data into clear stories—whether it’s Bayesian models or precision-medicine pipelines. When I’m not coding in R, you’ll find me binge-watching Korean variety shows (ask me for recs!).
+
+
+# Research Interests
+
+- **Precision Medicine**  
+  Building models that tailor treatments at the individual level.
+- **Causal Inference**
+  Rather than the traditional associational study, I like doing things that can be more like "causal" in nature! 
+- **Bayesian & MCMC**  
+  From Gibbs samplers to RStan, I enjoy the math under the hood.
+- **Dynamic Treatment Regimes**  
+  Designing adaptive interventions that evolve over time.
+  
+  
+# Education
+
+**University of Utah** | Salt Lake City, UT, U.S.A                                         
+PhD in Biostatistics | Aug 2020 - Present
+
+
+**Brigham Young University** | Provo, UT, U.S.A                                               
+M.S. in Statistics | Aug 2018 - Aug 2020
+
+
+**University of Calgary** | Calgary, AB, Canada                                      
+B.Sc. in Pure Mathematics with minor in Applied Mathematics | Aug 2010 - Nov 2014
+
+
+
+## Experience
+
+**University of Utah**, DELPHI | T.A. for R Coding Bootcamp | June 2023 - Present
+
+**University of Utah** | Graduate Research Assistant | Aug 2022 - Present
+
+**Utah State University** | Recitation Leader, Grader | Aug 2020 - May 2022
+
+
+

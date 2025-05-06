@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "!temp/"
+
+
+
+website:
+  title: "Hyejung Lee"
+  navbar:
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: main_about.qmd
+        text: About
+      - href: main_projects.qmd
+        text: Projects
+  sidebar: true
+
+
+#set up page footer
+page-footer:
+    background: light
+    left:
+      - icon: github
+        href: https://github.com/hyejung0
+      - icon: linkedin
+        href: https://www.linkedin.com/in/hyejung-lee-b2249819b/
+      - icon: envelope
+        href: mailto:hyejung.lee@utah.edu
+      - icon: file-earmark-arrow-down
+        href: CV_2025_May_Hyejung.docx
+    right:
+      - "295 Chipeta Way, 3rd Floor
+         Salt Lake City, UT 84108
+         United States"
+         
+         
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
