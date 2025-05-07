@@ -2,9 +2,9 @@
   {
     "listing": "/main_projects.html",
     "items": [
-      "/projects/wait_for_test.html",
-      "/projects/MBE.html",
-      "/projects/body_composition_serial.html"
+      "/projects/wait_for_test/wait_for_test.html",
+      "/projects/MBE/MBE.html",
+      "/projects/body_composition_serial/body_composition_serial.html"
     ]
   }
 ]
