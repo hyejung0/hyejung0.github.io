@@ -9,6 +9,8 @@ project:
 
 website:
   title: "Hyejung Lee"
+  
+  #1) Top nativation bar
   navbar:
     search: true
     left:
@@ -18,11 +20,12 @@ website:
         text: About
       - href: main_projects.qmd
         text: Projects
-  sidebar: true
+  #2) site-wide sidebar on the left      
+  sidebar: TRUE
 
 
-#set up page footer
-page-footer:
+  #3) set up page footer
+  page-footer:
     background: light
     left:
       - icon: github
@@ -32,18 +35,20 @@ page-footer:
       - icon: envelope
         href: mailto:hyejung.lee@utah.edu
       - icon: file-earmark-arrow-down
-        href: CV_2025_May_Hyejung.docx
+        href: CV_2025_May_Hyejung.pdf
     right:
       - "295 Chipeta Way, 3rd Floor
          Salt Lake City, UT 84108
          United States"
          
-         
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      - minty                  # or whichever Bootswatch theme you chose
+    css: styles_pastel_vibrant.css
     toc: true
+    toc-location: right
+
 
 
 

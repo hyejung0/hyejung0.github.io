@@ -1,0 +1,68 @@
+---
+title: "Impact of waiting for molecular test result about targetable mutation on the survival of advanced non-small cell lung cancer patients"
+subtitle: "Associational analysis - University of Utah"
+date: last-modified
+author: Hyejung Lee
+image: "SMART_design_v2.png"
+format:
+  html: 
+    embed-resources: true
+    toc: true
+    toc-location: left
+    theme: simplex
+execute: 
+  warning: false
+  echo: true
+  cache: true
+bibliography: references.bib
+csl: nature.csl
+editor_options: 
+  chunk_output_type: console
+---
+
+# Introduction
+
+Lung cancer is most common form of cancer in U.S.[@jemal2011global], and 5-year survival rate of advanced non-small cell lung cancer (aNSCLC) is very low, estimated to be 9%[@acs_lung_cancer_survival]. 
+
+
+The recommended course of treatments are identified in National Comprehensive Cancer Network (NCCN) guideline. The guideline suggests each patient to perform biopsy to identify presence of targetable mutations of certain biomarkers and PDL1 expression to make a informed decision on first-line (1L) therapy choice. This recommendation is made because targeted therapy is better for patient's survival than a standard, genetic therapy such as chemotherapy or immunotherapy. Usually, at least 1 positive mutation or 2 negative mutation status among all targetable biomarkers should be obtained to make informed decision about targetable therapy. Thus having at least 1 positive mutation or 2 negative mutation status will be
+referred to as *useful* mutation test result from here onward. Similarly, obtaining PDL1 expression level (from 0-100%) level, as opposed to result such as missing expression level or indeterminate result, will be referred to as *useful* PDL1 test result.
+
+The standard NCCN guideline, however, may not always be followed due to reasons such as clinician’s expert knowledge and ethics. For example, heavy smokers who develop lung cancer is most likely due to smoking rather than genetic mutation. Patients who fall into this category then may receive chemotherapy right away, instead of performing and waiting for genetic or PDL1 test results. One reason for not waiting until the useful test comes out is that a complete panel of test results (combined mutation and PDL1 expression tests) usually takes about 2-3 weeks to become available. It may take longer if the biopsy samples were not good and the test results are indeterminate, requiring another round of biopsy and waiting for the result. This period of waiting without doing any treatment may be detrimental to patient’s health and thus becomes an ethical issue. Therefore, the ultimate choice of whether waiting for the test result or not relies heavily on the clinician’s decision.
+
+Just like the example of heavy smokers, there are some patient characteristics that are highly indicative of patient’s likelihood of targetable mutation status. However, there has not yet been a quantitative evaluation of effect of proceeding to 1L therapy prior to knowing targetable mutation status in patients. In this study, we evaluate causal effect of proceeding right 1L therapy in all aNSCLC patients, as well as in some subgroups that have previously been identified as associated with the mutation status.
+
+
+
+
+# Objective
+
+
+**Primary Objective**: Using marginal structural model, we will develop
+and evaluate the effect of proceeding to 1L therapy prior to obtaining
+useful targetable mutation status
+
+-   Limit the number of weeks.
+-   For entire observation.
+
+**Secondary Objective**: Test impact of proceeding to 1L before useful
+tests become available in the following subgroups: male, female, have
+history of smoking, do not have history of smoking, baseline Eastern
+Cooperative Oncology Group (ECOG) score 0-2, baseline ECOG score 3-4,
+baseline albumin \< 35g/L, baseline albumin \>= 35 g/L, and Asian.
+
+-   These are the subgroups identified by Wally as having either higher
+    or lower probability of having targetable mutation, and thus would
+    more or less likely wait for the useful test results to become
+    available prior to initiating 1L therapy.
+
+
+
+
+Initial assessment of the data and statistical analysis plan can be found  [here](https://github.com/hyejung0/wait_for_test_v11/blob/main/SAP/SAP_v1.md){.button}. Please note that this project is ongoing and is incomplete.
+
+
+
+Before running the complicated marginal structural model, we decided to perform associational analysis with simpler methods, and the result can be found [here](https://github.com/hyejung0/wait_for_test_v11/blob/main/landmark/landmark.md){.button}. Please note that this project is ongoing and is incomplete.
+
+

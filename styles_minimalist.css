@@ -1,0 +1,56 @@
+/* === Minimalist Light === */
+body {
+  font-family: 'Merriweather', serif;
+  color: #333;
+  background: #fafafa;
+  margin: 0;
+  padding: 0;
+}
+.hero {
+  background: #fff;
+  color: #222;
+  padding: 80px 20px;
+  text-align: center;
+  border-bottom: 1px solid #eee;
+}
+.hero h1 {
+  font-size: 3.5rem;
+  margin-bottom: 0.3rem;
+}
+.hero .subtitle {
+  font-size: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+.hero .button {
+  display: inline-block;
+  padding: 0.75rem 1.25rem;
+  background: #222;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+h2 {
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.2rem;
+}
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.card {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 20px;
+  flex: 1;
+  min-width: 240px;
+}

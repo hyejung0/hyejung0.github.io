@@ -15,7 +15,7 @@ about:
       href: mailto:hyejung.lee@utah.edu
     - icon: file-earmark-arrow-down
       text: CV
-      href: CV_2025_May_Hyejung.docx
+      href: CV_2025_May_Hyejung.pdf
 ---
 
 
@@ -33,7 +33,7 @@ And about me outside of school: I don't have any extra time besides connecting w
 # Research Interests
 
 - **Precision Medicine**  
-  Building models that tailor treatments at the individual level. Very broad topic that covers lots of research fields.
+  This term is broad and encompasses any research aimed at tailoring treatments to subgroups or individuals who share common characteristics, with the goal of helping each person receive the most optimal treatment.
 - **Causal Inference**
   Rather than the traditional associational study, I like doing things that can be more like "causal" in nature! 
 - **Dynamic Treatment Regimes**  
@@ -57,7 +57,7 @@ B.Sc. in Pure Mathematics with minor in Applied Mathematics | Aug 2010 - Nov 201
 
 
 
-## Experience
+# Experience
 
 
 

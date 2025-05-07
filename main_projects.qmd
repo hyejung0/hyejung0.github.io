@@ -6,5 +6,3 @@ listing:
 ---
 
 Here are some of project I've been working on. 
-
-Presentations and tutorials I have done for different groups. Some of these pages are unrelated to my statistical interests, but follow other interests and can be helpful to other groups I have worked with and presented for. 

@@ -1,0 +1,40 @@
+---
+title: "Prognostic value of body composition and in survival of lung cancer patients"
+subtitle: "Huntsman cancer institute - University of Utah"
+date: last-modified
+author: Hyejung Lee
+image: "CT_scan_types.jpg"
+format:
+  html: 
+    embed-resources: true
+    toc: true
+    toc-location: left
+    theme: simplex
+execute: 
+  warning: false
+  echo: true
+  cache: true
+editor_options: 
+  chunk_output_type: console
+---
+
+# Introduction
+
+
+
+Body compositions have been identified to be associated with survival of metastatic non-small cell lung cancer (mNSCLC) patients. Recent evidence suggests that body composition variables (e.g., skeletal muscle mass and fat mass) may serve as independent prognostic factors of overall survival in varying cancer types and stages, including metastatic lung cancer. Work from our group reveals a 63% (0.37 HR, 95%CI 0.16, 0.87) and 43% (0.57 HR, 95%CI 0.35, 0.93) reduction in mortality risk with greater muscle and fat mass, respectively, at time of mNSCLC diagnosis.
+
+The purpose of the present investigation is to evaluate the relationship between **longitudinal** body compositions, as measured with the new CT scan software, at diagnosis and changes throughout treatment, and overall survival among mNSCLC patients.
+
+
+
+
+
+Initial assessment of the data and statistical analysis plan can be found  [here](https://github.com/hyejung0/body_composition_serial/blob/main/SAP_V4.md){.button}.
+
+The result can be found [here](https://github.com/hyejung0/body_composition_serial/blob/main/Result/Result_V4.md){.button}.
+
+
+Interestingly, some fat compositions increased in volume over time! This was a bit of an unexpected result, as we generally observe that mNSCLC patients tend to lose weight (fat + muscle) over time. We assumed that one year since diagnosis would be long enough to capture that trend, but maybe it wasn’t? We haven’t consulted with our oncologist yet about this finding.
+
+We found some significant associations between body compositions and death. As expected, an increase in body composition was generally associated with a lower hazard of death. In particular, using total fat and body volume in the mid-section of the body showed a strong trend in that direction.
