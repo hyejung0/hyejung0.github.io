@@ -50,3 +50,4 @@ What I’ll be doing is:
 
 We’re thrilled about the progress we’ve made so far. We can’t share our work just yet, but based on our results, it might really convince the FDA to consider using surrogates + Bayesian statistics to develop drugs for early-stage (or honestly, any stage) chronic kidney disease patients—because our method improves precision at all time points!
 
+Note: Relevant code I am using for my project can still be found on my [github](https://github.com/hyejung0/MBE){.button}, though my Github page is not setup to be self-explanatory at this point.
