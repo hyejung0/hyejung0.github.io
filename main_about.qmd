@@ -37,7 +37,7 @@ And about me outside of school: I don't have any extra time besides connecting w
 # Research Interests
 
 - **Precision Medicine**  
-  This term is broad and encompasses any research aimed at tailoring treatments to subgroups or individuals who share common characteristics, with the goal of helping each person receive the most optimal treatment.
+  This is an umbrella term that encompasses any research aimed at tailoring treatments to subgroups or individuals who share common characteristics, with the goal of helping each person receive the most optimal treatment.
 - **Causal Inference**
   Rather than the traditional associational study, I like doing things that can be more like "causal" in nature! 
 - **Dynamic Treatment Regimes**  
