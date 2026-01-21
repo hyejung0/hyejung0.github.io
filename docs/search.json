@@ -18,14 +18,14 @@
     "href": "main_about.html",
     "title": "Hyejung Lee",
     "section": "",
-    "text": "About Me\nI’m a Ph.D. candidate in biostatistics at the University of Utah. I love turning complex data into clear stories that are informative and clearly tell actionable items.\nI love digging into the “why” behind things—hence why I majored in math as an undergrad! By the time I graduated, thought, I was lost about what to do next. Long story short: a personal experience got me excited about transforming the paradigm of treatment.\nImagine patients with a chronic illness facing several therapy options. Right now, the go-to is basically “try one, see if it works, then move on”—if one even does. That trial-and-error eats up so much time, energy, and money. And here’s the kicker: getting sick often drains your resources. Medical bills stack up, folks may need to cut back on work (or even lose their job), and paychecks shrink. Suddenly, the idea of hopping from treatment A to B to C feels downright impossible. And I didn’t even mention about added burden from experiencing side-effects from treatments.\nWhat if we flipped the script? Let’s generate truly personalized “recipes” (ingredients and amounts!) for each person up front, and then match them to the treatments most likely to work on day one.\nSome existing research fields, such as causal inference and dynamic treatment regimes, get us close to this concept, but I don’t think we are anywhere near achieving it. My Ph.D. education has exposed me to both, and I’m excited to continue working on many stats/math projects until I can achieve my goal of tailoring prescriptions to individuals as described above!\nAnd about me outside of school: I don’t have any extra time besides connecting with my family abroad, occasional catch-ups with my friends, Sunday church, and watching Korean shows. Okay, that’s a pretty good list now that I look at it. Hahaha\n\n\nResearch Interests\n\nPrecision Medicine\nThis is an umbrella term that encompasses any research aimed at tailoring treatments to subgroups or individuals who share common characteristics, with the goal of helping each person receive the most optimal treatment.\nCausal Inference Rather than the traditional associational study, I like doing things that can be more like “causal” in nature!\nDynamic Treatment Regimes\nIdentifying sequence of treatment choices that yields the best outcome of interest\n\n\n\nEducation\nUniversity of Utah | Salt Lake City, UT, U.S.A\nPhD in Biostatistics | Aug 2020 - Present\nBrigham Young University | Provo, UT, U.S.A\nM.S. in Statistics | Aug 2018 - Aug 2020\nUniversity of Calgary | Calgary, AB, Canada\nB.Sc. in Pure Mathematics with minor in Applied Mathematics | Aug 2010 - Nov 2014\n\n\nExperience\nHuntsman Cancer Institute | Graduate Research Assistant | Aug 2020 - Present\nBiostatistics Intern | Regeneron Pharmaceuticals | May 2024 - Aug 2024\nBrigham Young University | Graduate Research Assistant | Aug 2018 - Aug 2020"
+    "text": "About Me\nI’m a biostatistician at the Division of Epidemiology at the University of Utah. I love turning complex data into clear stories that are informative and clearly tell actionable items.\nI love digging into the “why” behind things—hence why I majored in math as an undergrad! By the time I graduated, thought, I was lost about what to do next. Long story short: a personal experience got me excited about transforming the paradigm of treatment.\nImagine patients with a chronic illness facing several therapy options. Right now, the go-to is basically “try one, see if it works, then move on”—if one even does. That trial-and-error eats up so much time, energy, and money. And here’s the kicker: getting sick often drains your resources. Medical bills stack up, folks may need to cut back on work (or even lose their job), and paychecks shrink. Suddenly, the idea of hopping from treatment A to B to C feels downright impossible. And I didn’t even mention about added burden from experiencing side-effects from treatments.\nWhat if we flipped the script? Let’s generate truly personalized “recipes” (ingredients and amounts!) for each person up front, and then match them to the treatments most likely to work on day one.\nSome existing research fields, such as causal inference and dynamic treatment regimes, get us close to this concept, but I don’t think we are anywhere near achieving it. My Ph.D. education has exposed me to both, and I’m excited to continue working on many stats/math projects until I can achieve my goal of tailoring prescriptions to individuals as described above!\nAnd about me outside of school: I don’t have any extra time besides connecting with my family abroad, occasional catch-ups with my friends, Sunday church, and watching Korean shows. Okay, that’s a pretty good list now that I look at it. Hahaha\n\n\nResearch Interests\n\nPrecision Medicine\nThis is an umbrella term that encompasses any research aimed at tailoring treatments to subgroups or individuals who share common characteristics, with the goal of helping each person receive the most optimal treatment.\nCausal Inference Rather than the traditional associational study, I like doing things that can be more like “causal” in nature!\nDynamic Treatment Regimes\nIdentifying sequence of treatment choices that yields the best outcome of interest\nBayesian Nonparametric\nJust started learning about this field. I like the method is more truly following the Bayesian philosophy, rather\n\n\n\nEducation\nUniversity of Utah | Salt Lake City, UT, U.S.A\nPhD in Population Health Sciences, Division of Biostatistics | 2020 - 2025\nBrigham Young University | Provo, UT, U.S.A\nM.S. in Statistics | 2018 - 2020\nUniversity of Calgary | Calgary, AB, Canada\nB.Sc. in Pure Mathematics with minor in Applied Mathematics | 2010 -2014\n\n\nExperience\nDivision of Epidemiology, Department of Internal Medicine, University of Utah | Research Associate | 2025 - present\nHuntsman Cancer Institute | Graduate Research Assistant | Aug 2020 - 2025\nBiostatistics Intern | Regeneron Pharmaceuticals | May 2024 - Aug 2024\nBrigham Young University | Graduate Research Assistant | Aug 2018 - Aug 2020"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hyejung Lee",
     "section": "",
-    "text": "Ph.D. Candidate in Biostatistics & Precision Medicine Enthusiast\nLearn More ↓"
+    "text": "I am a biostatistician with experience supporting collaborative clinical and translational research, particularly in oncology and chronic disease research. My work focuses on rigorous study design, reproducible statistical analysis in R, and clear communication of results to clinical collaborators.\nCurrent interests\n\nCausal inference and individualized treatment decision-making for time-to-event outcomes\n\nBayesian and hierarchical modeling for clinical trial endpoints and surrogate outcomes\n\nApplication of Bayesian Nonparametric methods\nHigh-performance / parallel computing workflows for scalable analyses in R"
   },
   {
     "objectID": "index.html#welcome",
@@ -47,5 +47,159 @@
     "title": "Prognostic value of body composition and in survival of lung cancer patients",
     "section": "",
     "text": "Introduction\nBody compositions have been identified to be associated with survival of metastatic non-small cell lung cancer (mNSCLC) patients. Recent evidence suggests that body composition variables (e.g., skeletal muscle mass and fat mass) may serve as independent prognostic factors of overall survival in varying cancer types and stages, including metastatic lung cancer. Work from our group reveals a 63% (0.37 HR, 95%CI 0.16, 0.87) and 43% (0.57 HR, 95%CI 0.35, 0.93) reduction in mortality risk with greater muscle and fat mass, respectively, at time of mNSCLC diagnosis.\nThe purpose of the present investigation is to evaluate the relationship between longitudinal body compositions, as measured with the new CT scan software, at diagnosis and changes throughout treatment, and overall survival among mNSCLC patients.\nInitial assessment of the data and statistical analysis plan can be found here.\nThe result can be found here.\nInterestingly, some fat compositions increased in volume over time! This was a bit of an unexpected result, as we generally observe that mNSCLC patients tend to lose weight (fat + muscle) over time. We assumed that one year since diagnosis would be long enough to capture that trend, but maybe it wasn’t? We haven’t consulted with our oncologist yet about this finding.\nWe found some significant associations between body compositions and death. As expected, an increase in body composition was generally associated with a lower hazard of death. In particular, using total fat and body volume in the mid-section of the body showed a strong trend in that direction."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Coletta, A. M., Lee, H., Puri, S., Culleton, S., Covington, M. F., Yap, J. T., Maslana, K. E., Haaland, B., & Akerley, W. (2025). The association between body composition, overall survival, treatment decisions, and patient-reported outcomes in metastatic non-small-cell lung cancer. Cancer Medicine, 14(1), e70534. https://doi.org/10.1002/cam4.70534\n\n\nLee, H., Shen, J., Fadlullah, M. Z., Neibling, A., Hanson, C., Ampaw, E., Lin, T., Larsen, M., Lloyd, J., Maughan, B. L., Swami, U., Gupta, S., Tward, J., Johnson, S. B., O’Neil, B., Schmidt, B., Dechet, C. B., Haaland, B., Wang, L., … Kohli, M. (2025). Circulatory prostate cancer proteome landscapes and prognostic biomarkers in metastatic castrate resistant prostate cancer. Clinical Proteomics, 22, 13. https://doi.org/10.1186/s12014-025-09536-6\n\n\nArnold, L. M., Hoshina, Y., Lee, H., Colman, H., & Mendez, J. (2024). Effect of pneumocystis jirovecii pneumonia prophylaxis on hematologic toxicity in patients receiving chemoradiation for primary brain tumors. Journal of Neuro-Oncology, 167, 211–217. https://doi.org/10.1007/s11060-024-04588-4\n\n\nDECAAF II investigators, Akoum, N., Mekhael, M., Bisbal, F., Wazni, O., McGann, C., Lee, H., Bardsley, T., Greene, T., Dean, J. M., Dagher, L., Kholmovski, E., Mansour, M., Marchlinski, F., Wilber, D., Hindricks, G., Mahnkopf, C., Wells, D., Jaïs, P., … Marrouche, N. (2024). Lesion delivery and scar formation in catheter ablation for atrial fibrillation: The DECAAF II trial. Heart Rhythm, 22(6), 1384–1393. https://doi.org/10.1016/j.hrthm.2024.08.062\n\n\nWang, X., Lee, H., Haaland, B., Kerrigan, K., Puri, S., Akerley, W., & Shen, J. (2024). A matching-based machine learning approach to estimating optimal dynamic treatment regimes with time-to-event outcomes. Statistical Methods in Medical Research, 33(5), 794–806. https://doi.org/10.1177/09622802241236954\n\n\nMoon-Grady, A. J., Lee, H., Lopez, L., Fatusin, O., Freud, L. R., Hogan, W., Krishnan, A., McFarland, C., Minich, L. L., Morris, S. A., Pinto, N., Presson, A. P., Tacy, T. A., Donofrio, M. T., & Fetal Heart Society. (2023). Fetal echocardiographic z score pilot project: Study design and impact of gestational age and variable type on reproducibility of measurements within and across investigators. Journal of the American Society of Echocardiography, 36(9), 978–997. https://doi.org/10.1016/j.echo.2023.05.010\n\n\nPeterson, L., Lee, H., Huybrechts, I., Biessy, C., Neuhouser, M. L., Haaland, B., Krick, B., Gunter, M., Schulze, M. B., Jannasch, F., Coletta, A. M., Hardikar, S., Chaix, A., Bauer, C. X., Xiao, Q., & Playdon, M. C. (2023). Reliability estimates for assessing meal timing derived from longitudinal repeated 24-hour dietary recalls. The American Journal of Clinical Nutrition, 117(5), 964–975. https://doi.org/10.1016/j.ajcnut.2023.02.026"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-articles",
+    "href": "publications.html#peer-reviewed-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Coletta, A. M., Lee, H., Puri, S., Culleton, S., Covington, M. F., Yap, J. T., Maslana, K. E., Haaland, B., & Akerley, W. (2025). The association between body composition, overall survival, treatment decisions, and patient-reported outcomes in metastatic non-small-cell lung cancer. Cancer Medicine, 14(1), e70534. https://doi.org/10.1002/cam4.70534\n\n\nLee, H., Shen, J., Fadlullah, M. Z., Neibling, A., Hanson, C., Ampaw, E., Lin, T., Larsen, M., Lloyd, J., Maughan, B. L., Swami, U., Gupta, S., Tward, J., Johnson, S. B., O’Neil, B., Schmidt, B., Dechet, C. B., Haaland, B., Wang, L., … Kohli, M. (2025). Circulatory prostate cancer proteome landscapes and prognostic biomarkers in metastatic castrate resistant prostate cancer. Clinical Proteomics, 22, 13. https://doi.org/10.1186/s12014-025-09536-6\n\n\nArnold, L. M., Hoshina, Y., Lee, H., Colman, H., & Mendez, J. (2024). Effect of pneumocystis jirovecii pneumonia prophylaxis on hematologic toxicity in patients receiving chemoradiation for primary brain tumors. Journal of Neuro-Oncology, 167, 211–217. https://doi.org/10.1007/s11060-024-04588-4\n\n\nDECAAF II investigators, Akoum, N., Mekhael, M., Bisbal, F., Wazni, O., McGann, C., Lee, H., Bardsley, T., Greene, T., Dean, J. M., Dagher, L., Kholmovski, E., Mansour, M., Marchlinski, F., Wilber, D., Hindricks, G., Mahnkopf, C., Wells, D., Jaïs, P., … Marrouche, N. (2024). Lesion delivery and scar formation in catheter ablation for atrial fibrillation: The DECAAF II trial. Heart Rhythm, 22(6), 1384–1393. https://doi.org/10.1016/j.hrthm.2024.08.062\n\n\nWang, X., Lee, H., Haaland, B., Kerrigan, K., Puri, S., Akerley, W., & Shen, J. (2024). A matching-based machine learning approach to estimating optimal dynamic treatment regimes with time-to-event outcomes. Statistical Methods in Medical Research, 33(5), 794–806. https://doi.org/10.1177/09622802241236954\n\n\nMoon-Grady, A. J., Lee, H., Lopez, L., Fatusin, O., Freud, L. R., Hogan, W., Krishnan, A., McFarland, C., Minich, L. L., Morris, S. A., Pinto, N., Presson, A. P., Tacy, T. A., Donofrio, M. T., & Fetal Heart Society. (2023). Fetal echocardiographic z score pilot project: Study design and impact of gestational age and variable type on reproducibility of measurements within and across investigators. Journal of the American Society of Echocardiography, 36(9), 978–997. https://doi.org/10.1016/j.echo.2023.05.010\n\n\nPeterson, L., Lee, H., Huybrechts, I., Biessy, C., Neuhouser, M. L., Haaland, B., Krick, B., Gunter, M., Schulze, M. B., Jannasch, F., Coletta, A. M., Hardikar, S., Chaix, A., Bauer, C. X., Xiao, Q., & Playdon, M. C. (2023). Reliability estimates for assessing meal timing derived from longitudinal repeated 24-hour dietary recalls. The American Journal of Clinical Nutrition, 117(5), 964–975. https://doi.org/10.1016/j.ajcnut.2023.02.026"
+  },
+  {
+    "objectID": "publications.html#manuscripts-in-progress",
+    "href": "publications.html#manuscripts-in-progress",
+    "title": "Publications",
+    "section": "Manuscripts in progress",
+    "text": "Manuscripts in progress\n\nLee H, Greene T. Optimization of treatment effect on clinical endpoints in chronic kidney disease Phase II/III trials by incorporating surrogate eGFR slopes and clinical endpoints using a two-stage Bayesian mixed-effect meta-regression model. (In progress)\nLee H, Greene T. Optimization of treatment effect on clinical endpoints in chronic kidney disease Phase II/III trials by incorporating surrogate eGFR slopes, albuminuria, and clinical endpoints using a two-stage Bayesian mixed-effect meta-regression model. (In progress)\nLee H, Akerley W, Alhamad K, Haaland B, Shen J. Impact of biomarker testing wait time on treatment decision optimization in advanced non-small cell lung cancer. (In progress)"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Statistical Analysis Plan (SAP) writing mentorship — Undergraduate researcher (Duke University; Prof. Nikki Freeman’s group)\n- Provided structured guidance on SAP components (study objectives, endpoints, analysis populations)\n- Discussed candidate analysis approaches aligned with the research question and data structure\n- Reviewed drafts and provided feedback to improve clarity, organization, and reproducibility (R-oriented implementation)"
+  },
+  {
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Teaching",
+    "section": "Teaching experience",
+    "text": "Teaching experience\n\nTeaching Assistant — University of Utah (2018)\nMethods and Mechanics of Secondary Data Analysis (Department of Population Health Sciences)\n- Led applied in-class exercises\n- Graded assignments and provided feedback\n\n\nTeaching Assistant — Brigham Young University (2018)\nProbability and Inference I (Department of Statistics)\n- Graded assignments and provided feedback\n- Explained concepts using clear, student-friendly language\n\n\nPrivate Mathematics Tutor (2010–2015)\n\nTutored middle-school students in foundational mathematics"
+  },
+  {
+    "objectID": "service.html",
+    "href": "service.html",
+    "title": "Service",
+    "section": "",
+    "text": "Judge, Brigham Young University Student Research Conference (March 8, 2025)\nHigh school mentoring (2024)\nStudent Advisory Committee for Faculty Review and Advancement (2023)\nKorean Young Single Adult (KYSA) Conference Co-Chair (2019)"
+  },
+  {
+    "objectID": "service.html#leadership",
+    "href": "service.html#leadership",
+    "title": "Service",
+    "section": "",
+    "text": "Judge, Brigham Young University Student Research Conference (March 8, 2025)\nHigh school mentoring (2024)\nStudent Advisory Committee for Faculty Review and Advancement (2023)\nKorean Young Single Adult (KYSA) Conference Co-Chair (2019)"
+  },
+  {
+    "objectID": "service.html#volunteer-activities",
+    "href": "service.html#volunteer-activities",
+    "title": "Service",
+    "section": "Volunteer activities",
+    "text": "Volunteer activities\n\nUndergraduate Research Summer Symposium, University of Utah (2024)\nCommunity math tutoring (2023)\nGraduate School Diversity Preview Day (2022–2023)\nUtah Food Bank (2022–2023)\nGraduate School Diversity Office Representative at the Utah Conference on Undergraduate Research (2023)\nPopulation Health Sciences Virtual Open House (2022)"
+  },
+  {
+    "objectID": "teaching.html#mentoring-informal",
+    "href": "teaching.html#mentoring-informal",
+    "title": "Teaching",
+    "section": "",
+    "text": "Statistical Analysis Plan (SAP) writing mentorship — Undergraduate researcher (Duke University; Prof. Nikki Freeman’s group)\n- Provided structured guidance on SAP components (study objectives, endpoints, analysis populations)\n- Discussed candidate analysis approaches aligned with the research question and data structure\n- Reviewed drafts and provided feedback to improve clarity, organization, and reproducibility (R-oriented implementation)"
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Joint Statistical Meeting (JSM) — Modeling disease progression in Parkinson’s Disease with cross-sectional data using pseudo-time (August 4, 2025)\n\n\n\n\n\nRegeneron High Performance Computation Talk — High-performance computing workflows and parallel computation with controlled random seeds (August 2, 2024)\nOlink Technology Seminar — Identifying plasma-based proteins related to prostate cancer progression and death (May 1, 2024)\n\n\n\n\n\nASCO Quality Care Symposium (Poster) — Association between body composition, quality of life, overall survival, and decision to treat in metastatic NSCLC (Sept 30–Oct 1, 2022)\nJournal of the American Society of Echocardiography — 2022 Arthur E. Weyman Young Investigator’s Award Competition Finalist; Fetal Echocardiographic Z-Score Pilot Project (July 2022)\n\n\n\n\n\nRegional NORA Young/New Investigators Virtual Symposium (Poster) — Association between major depressive disorder and personal factors among Utah lawyers (April 2021)"
+  },
+  {
+    "objectID": "presentations.html#talks-and-conference-presentations",
+    "href": "presentations.html#talks-and-conference-presentations",
+    "title": "Presentations",
+    "section": "",
+    "text": "Joint Statistical Meeting (JSM) — Modeling disease progression in Parkinson’s Disease with cross-sectional data using pseudo-time (August 4, 2025)\n\n\n\n\n\nRegeneron High Performance Computation Talk — High-performance computing workflows and parallel computation with controlled random seeds (August 2, 2024)\nOlink Technology Seminar — Identifying plasma-based proteins related to prostate cancer progression and death (May 1, 2024)\n\n\n\n\n\nASCO Quality Care Symposium (Poster) — Association between body composition, quality of life, overall survival, and decision to treat in metastatic NSCLC (Sept 30–Oct 1, 2022)\nJournal of the American Society of Echocardiography — 2022 Arthur E. Weyman Young Investigator’s Award Competition Finalist; Fetal Echocardiographic Z-Score Pilot Project (July 2022)\n\n\n\n\n\nRegional NORA Young/New Investigators Virtual Symposium (Poster) — Association between major depressive disorder and personal factors among Utah lawyers (April 2021)"
+  },
+  {
+    "objectID": "leadership.html",
+    "href": "leadership.html",
+    "title": "Leadership",
+    "section": "",
+    "text": "Judge, Brigham Young University Student Research Conference (March 8, 2025)\nHigh school mentoring (2024)\nStudent Advisory Committee for Faculty Review and Advancement (2023)\nKorean Young Single Adult (KYSA) Conference Co-Chair (2019)"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research spans methodological biostatistics and applied clinical research, with a focus on problems where study design and modeling choices materially affect clinical conclusions.\n\n\n\nCausal inference for observational data (e.g., inverse probability weighting; target trial thinking)\n\nTime-to-event modeling and individualized decision rules (e.g., dynamic treatment regimes)\n\nBayesian hierarchical modeling for combining information across studies and endpoints\n\nLongitudinal + survival analyses, including joint modeling of repeated measures and survival outcomes\n\n\n\n\n\nCancer outcomes research (e.g., lung cancer, prostate cancer)\n\nChronic disease endpoints and surrogate outcomes (e.g., kidney disease)\n\nReal-world data and electronic health records"
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "My research spans methodological biostatistics and applied clinical research, with a focus on problems where study design and modeling choices materially affect clinical conclusions.\n\n\n\nCausal inference for observational data (e.g., inverse probability weighting; target trial thinking)\n\nTime-to-event modeling and individualized decision rules (e.g., dynamic treatment regimes)\n\nBayesian hierarchical modeling for combining information across studies and endpoints\n\nLongitudinal + survival analyses, including joint modeling of repeated measures and survival outcomes\n\n\n\n\n\nCancer outcomes research (e.g., lung cancer, prostate cancer)\n\nChronic disease endpoints and surrogate outcomes (e.g., kidney disease)\n\nReal-world data and electronic health records"
+  },
+  {
+    "objectID": "research.html#selected-collaboration-experience-examples",
+    "href": "research.html#selected-collaboration-experience-examples",
+    "title": "Research",
+    "section": "Selected collaboration experience (examples)",
+    "text": "Selected collaboration experience (examples)\n\nTreatment timing and decision optimization in advanced NSCLC using nationwide longitudinal EHR data\n\nBody composition and survival in metastatic NSCLC using longitudinal imaging-derived measures\n\nProteomics and prognosis in metastatic castration-resistant prostate cancer using high-plex protein assays\n\nAblation outcomes in atrial fibrillation using clinical trial data and time-to-event methods"
+  },
+  {
+    "objectID": "research.html#reproducible-workflows",
+    "href": "research.html#reproducible-workflows",
+    "title": "Research",
+    "section": "Reproducible workflows",
+    "text": "Reproducible workflows\nI primarily work in R, with emphasis on reproducible pipelines, version control (Git/GitHub), and compute-aware workflows (parallel computing / HPC) when needed."
+  },
+  {
+    "objectID": "teaching.html#upcoming-teaching-planned",
+    "href": "teaching.html#upcoming-teaching-planned",
+    "title": "Teaching",
+    "section": "Upcoming teaching (planned)",
+    "text": "Upcoming teaching (planned)\n\nSeminar facilitator (informal) — University of Utah (2026, planned)\nNonparametric Bayesian Methods seminar (Department of Population Health Sciences; Biostatistics Ph.D. students)\n- Seminar-style walkthrough of the Broderick & Jordan boot camp tutorial materials (R-programming demonstrations/slides), with guided discussion and optional exercises\n- Prepared prerequisite mini-lectures on stochastic processes and measure theory to support understanding of the core nonparametric Bayes concepts\n- Materials: Tutorial page"
+  },
+  {
+    "objectID": "leadership.html#volunteer-activities",
+    "href": "leadership.html#volunteer-activities",
+    "title": "Leadership",
+    "section": "Volunteer activities",
+    "text": "Volunteer activities\n\nUndergraduate Research Summer Symposium, University of Utah (2024)\nCommunity math tutoring (2023)\nGraduate School Diversity Preview Day (2022–2023)\nUtah Food Bank (2022–2023)\nGraduate School Diversity Office Representative at the Utah Conference on Undergraduate Research (2023)\nPopulation Health Sciences Virtual Open House (2022)"
+  },
+  {
+    "objectID": "leadership.html#leadership",
+    "href": "leadership.html#leadership",
+    "title": "Leadership",
+    "section": "",
+    "text": "Judge, Brigham Young University Student Research Conference (March 8, 2025)\nHigh school mentoring (2024)\nStudent Advisory Committee for Faculty Review and Advancement (2023)\nKorean Young Single Adult (KYSA) Conference Co-Chair (2019)"
+  },
+  {
+    "objectID": "temp/test_index.html",
+    "href": "temp/test_index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hyejung Lee\nPh.D. Candidate in Biostatistics & Precision Medicine Enthusiast\nLearn More ↓\n\n\nAbout Me\nI’m a Ph.D. candidate in biostatistics at the University of Utah. I love turning complex data into clear stories—whether it’s Bayesian models or precision-medicine pipelines. When I’m not coding in R, you’ll find me binge-watching Korean variety shows (ask me for recs!).\n\n\nResearch Interests\n\nPrecision Medicine\nBuilding models that tailor treatments at the individual level.\nBayesian & MCMC\nFrom Gibbs samplers to RStan, I enjoy the math under the hood.\nDynamic Treatment Regimes\nDesigning adaptive interventions that evolve over time.\n\n\n\nFeatured Projects\n\n\n\nPrognostic Model for mCRPC\nCox model + LASSO to predict survival in prostate cancer.\nView project\n\n\n\nBayesian Trivariate Updating\nHierarchical MVN updating for clinical & surrogate endpoints.\nView project\n\n\n\nThis Quarto Website\nBuilt with Quarto + custom CSS.\nExplore the code →\n\n\n\n\nConnect with me:\nGitHub·\nLinkedIn·\nEmail"
+  },
+  {
+    "objectID": "temp/tmp_index.html",
+    "href": "temp/tmp_index.html",
+    "title": "Hyejung Lee",
+    "section": "",
+    "text": "Ph.D. Biostatistician\nLearn More ↓"
+  },
+  {
+    "objectID": "temp/tmp_index.html#welcome",
+    "href": "temp/tmp_index.html#welcome",
+    "title": "Hyejung Lee",
+    "section": "Welcome",
+    "text": "Welcome\nWelcome to my website! Here you will find previous projects, current projects I can share, contact information, and more! But the webste is still under construction and messy. So please understand. To learn more about my statistical interest, please click About.\nIf there are any questions, comments, or concerns, please feel free to contact me."
   }
 ]

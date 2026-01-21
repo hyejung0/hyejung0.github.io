@@ -2,7 +2,7 @@
 title: "Hyejung Lee"
 about:
   template: trestles
-  image: headshot.jpg
+  image: img/headshot.jpg
   links:
     - icon: github
       text: GitHub
@@ -15,13 +15,13 @@ about:
       href: mailto:hyejung.lee@utah.edu
     - icon: file-earmark-arrow-down
       text: CV
-      href: CV_2025_May_Hyejung.pdf
+      href: CV.pdf
 ---
 
 
 # About Me
 
-I’m a Ph.D. candidate in biostatistics at the University of Utah. I love turning complex data into clear stories that are informative and clearly tell actionable items.
+I’m a biostatistician at the Division of Epidemiology at the University of Utah. I love turning complex data into clear stories that are informative and clearly tell actionable items.
 
 I love digging into the "why" behind things—hence why I majored in math as an undergrad! By the time I graduated, thought, I was lost about what to do next. Long story short: a personal experience got me excited about transforming the paradigm of treatment. 
 
@@ -42,30 +42,33 @@ And about me outside of school: I don't have any extra time besides connecting w
   Rather than the traditional associational study, I like doing things that can be more like "causal" in nature! 
 - **Dynamic Treatment Regimes**  
   Identifying sequence of treatment choices that yields the best outcome of interest
-  
+- **Bayesian Nonparametric**  
+  Just started learning about this field. I like the method is more truly following the Bayesian philosophy, rather 
+    
   
   
   
 # Education
 
 **University of Utah** | Salt Lake City, UT, U.S.A                                         
-PhD in Biostatistics | Aug 2020 - Present
+PhD in Population Health Sciences, Division of Biostatistics | 2020 - 2025
 
 
 **Brigham Young University** | Provo, UT, U.S.A                                               
-M.S. in Statistics | Aug 2018 - Aug 2020
+M.S. in Statistics | 2018 - 2020
 
 
 **University of Calgary** | Calgary, AB, Canada                                      
-B.Sc. in Pure Mathematics with minor in Applied Mathematics | Aug 2010 - Nov 2014
+B.Sc. in Pure Mathematics with minor in Applied Mathematics | 2010 -2014
 
 
 
 # Experience
 
 
+**Division of Epidemiology, Department of Internal Medicine, University of Utah** | Research Associate | 2025 - present
 
-**Huntsman Cancer Institute** | Graduate Research Assistant | Aug 2020 - Present
+**Huntsman Cancer Institute** | Graduate Research Assistant | Aug 2020 - 2025
 
 **Biostatistics Intern** | Regeneron Pharmaceuticals | May 2024 - Aug 2024
 

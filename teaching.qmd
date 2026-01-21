@@ -1,0 +1,43 @@
+---
+title: "Teaching"
+---
+
+
+
+## Mentoring (informal)
+
+
+### Volunteer Statistical Mentor (Remote; 2025–present)
+**Statistical Analysis Plan (SAP) writing mentorship** — Undergraduate researcher (Duke University; Prof. Nikki Freeman’s group)  
+- Provided structured guidance on SAP components (study objectives, endpoints, analysis populations)  
+- Discussed candidate analysis approaches aligned with the research question and data structure  
+- Reviewed drafts and provided feedback to improve clarity, organization, and reproducibility (R-oriented implementation)
+
+
+## Upcoming teaching (planned)
+
+### Seminar facilitator (informal) — University of Utah (2026, planned)
+**Nonparametric Bayesian Methods seminar** (Department of Population Health Sciences; Biostatistics Ph.D. students)  
+- Seminar-style walkthrough of the Broderick & Jordan boot camp tutorial materials (R-programming demonstrations/slides), with guided discussion and optional exercises  
+- Prepared prerequisite mini-lectures on stochastic processes and measure theory to support understanding of the core nonparametric Bayes concepts  
+- Materials: [Tutorial page](https://tamarabroderick.com/tutorial_2017_simons.html)
+
+
+
+## Teaching experience
+
+
+
+### Teaching Assistant — University of Utah (2018)
+**Methods and Mechanics of Secondary Data Analysis** (Department of Population Health Sciences)  
+- Led applied in-class exercises  
+- Graded assignments and provided feedback  
+
+### Teaching Assistant — Brigham Young University (2018)
+**Probability and Inference I** (Department of Statistics)  
+- Graded assignments and provided feedback  
+- Explained concepts using clear, student-friendly language  
+
+### Private Mathematics Tutor (2010–2015)
+- Tutored middle-school students in foundational mathematics
+

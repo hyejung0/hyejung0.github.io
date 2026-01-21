@@ -1,0 +1,22 @@
+---
+title: "Publications"
+bibliography: references_published.bib
+csl: apa-date-desc.csl #ordering the publications by date
+nocite: |
+  @*
+---
+
+## Peer-reviewed articles
+
+::: {#refs}
+:::
+
+## Manuscripts in progress
+
+- Lee H, Greene T. *Optimization of treatment effect on clinical endpoints in chronic kidney disease Phase II/III trials by incorporating surrogate eGFR slopes and clinical endpoints using a two-stage Bayesian mixed-effect meta-regression model.* (In progress)
+- Lee H, Greene T. *Optimization of treatment effect on clinical endpoints in chronic kidney disease Phase II/III trials by incorporating surrogate eGFR slopes, albuminuria, and clinical endpoints using a two-stage Bayesian mixed-effect meta-regression model.* (In progress)
+- Lee H, Akerley W, Alhamad K, Haaland B, Shen J. *Impact of biomarker testing wait time on treatment decision optimization in advanced non-small cell lung cancer.* (In progress)
+
+
+[]:  Tip: Keep `references.bib` as your “master” bibliography, and update it when papers are accepted. The site uses `references_published.bib` so the Publications page stays clean. 
+

@@ -1,54 +1,37 @@
 project:
   type: website
   output-dir: docs
-  render:
-    - "*.qmd"
-    - "!temp/"
-
-
 
 website:
   title: "Hyejung Lee"
-  
-  #1) Top nativation bar
   navbar:
-    search: true
     left:
-      - href: index.qmd
-        text: Home
-      - href: main_about.qmd
-        text: About
-      - href: main_projects.qmd
-        text: Projects
-  #2) site-wide sidebar on the left      
-  sidebar: TRUE
-
-
-  #3) set up page footer
-  page-footer:
-    background: light
-    left:
+      - text: Home
+        href: index.qmd
+      - text: About  
+        href: main_about.qmd
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Presentations
+        href: presentations.qmd
+      - text: Leadership
+        href: leadership.qmd
+    right:
       - icon: github
         href: https://github.com/hyejung0
       - icon: linkedin
         href: https://www.linkedin.com/in/hyejung-lee-b2249819b/
+      # - icon: mortarboard
+      #   href: https://scholar.google.com/
       - icon: envelope
         href: mailto:hyejung.lee@utah.edu
-      - icon: file-earmark-arrow-down
-        href: CV_2025_May_Hyejung.pdf
-    right:
-      - "295 Chipeta Way, 3rd Floor
-         Salt Lake City, UT 84108
-         United States"
-         
+
 format:
   html:
-    theme:
-      - minty                  # or whichever Bootswatch theme you chose
-    css: styles_pastel_vibrant.css
-    toc: true
-    toc-location: right
-
-
-
-
+    theme: cosmo
+    toc: false
+    smooth-scroll: true

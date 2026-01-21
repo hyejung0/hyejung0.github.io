@@ -1,77 +1,36 @@
 ---
 title: "Hyejung Lee"
-# listing:
-#   contents:
-#     - "main_*.qmd"
-#   type: table
-#   fields: [title]
+subtitle: "Biostatistician | University of Utah"
+image: img/headshot.jpg
+image-alt: "Headshot of Hyejung Lee"
 about:
-  template: jolla
-  # image: headshot.jpg
+  template: trestles
   links:
-    - icon: github
-      text: GitHub
-      href: https://github.com/hyejung0
+    - icon: file-earmark-pdf
+      text: CV (PDF)
+      href: CV.pdf
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/hyejung-lee-b2249819b/
+    # - icon: github
+    #   text: GitHub
+    #   href: https://github.com/hyejung0
+    # - icon: mortarboard
+    #   text: Google Scholar
+    #   href: https://scholar.google.com/
     - icon: envelope
-      text: E-Mail
+      text: Email
       href: mailto:hyejung.lee@utah.edu
-    - icon: file-earmark-arrow-down
-      text: CV
-      href: CV_2025_May_Hyejung.pdf
 ---
 
+I am a biostatistician with experience supporting collaborative clinical and translational research, particularly in oncology and chronic disease research. My work focuses on rigorous study design, reproducible statistical analysis in R, and clear communication of results to clinical collaborators.
 
-::: {.hero}
-![](headshot.jpg){.headshot}
+**Current interests**
 
+- Causal inference and individualized treatment decision-making for time-to-event outcomes  
+- Bayesian and hierarchical modeling for clinical trial endpoints and surrogate outcomes  
+- Application of Bayesian Nonparametric methods 
+- High-performance / parallel computing workflows for scalable analyses in R  
 
-**Ph.D. Candidate in Biostatistics & Precision Medicine Enthusiast**
-
-[Learn More ↓](#welcome){.button}
-:::
-
-
-
-::: {.container}
-## Welcome {#welcome}
-
-Welcome to my website! Here you will find previous projects, current projects I can share, contact information, and more! But the webste is still under construction and messy. So please understand. To learn more about my statistical interest, please click [About](main_about.html){.button}.
-
-If there are any questions, comments, or concerns, please feel free to [contact me](mailto:hyejung.lee@utah.edu).
-:::
-
-
-
-
-
-::: {.projects}
-
-::: {.card}
-### Treatment initiation timing for lung cancer
-Is following the guideline really helpful for extended survival?
-
-[View project](projects/wait_for_test/wait_for_test.html){.btn .btn-outline-primary .mt-2}
-:::
-
-::: {.card}
-### Bayesian method to improve precision of treatment effect
-Incorporate surrogate endpoints information to increase precision.
-
-[View project](projects/MBE/MBE.html){.btn .btn-outline-primary .mt-2}
-:::
-
-::: {.card}
-### Prognostic value of body composition in lung cancer patients
-To identify a non-invasive biomarker to estimate survival.
-
-[View project](projects/body_composition_serial/body_composition_serial.html){.btn .btn-outline-primary .mt-2}
-
-:::
-
-:::
-
-
+<!-- Replace the subtitle and links above with your preferred title, lab/center, and profiles. -->
 

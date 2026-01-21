@@ -1,0 +1,20 @@
+---
+title: "Presentations"
+---
+
+## Talks and conference presentations
+
+### 2025
+- **Joint Statistical Meeting (JSM)** — *Modeling disease progression in Parkinson’s Disease with cross-sectional data using pseudo-time* (August 4, 2025)
+
+### 2024
+- **Regeneron High Performance Computation Talk** — *High-performance computing workflows and parallel computation with controlled random seeds* (August 2, 2024)
+- **Olink Technology Seminar** — *Identifying plasma-based proteins related to prostate cancer progression and death* (May 1, 2024)
+
+### 2022
+- **ASCO Quality Care Symposium (Poster)** — *Association between body composition, quality of life, overall survival, and decision to treat in metastatic NSCLC* (Sept 30–Oct 1, 2022)
+- **Journal of the American Society of Echocardiography** — 2022 Arthur E. Weyman Young Investigator’s Award Competition Finalist; *Fetal Echocardiographic Z-Score Pilot Project* (July 2022)
+
+### 2021
+- **Regional NORA Young/New Investigators Virtual Symposium (Poster)** — *Association between major depressive disorder and personal factors among Utah lawyers* (April 2021)
+

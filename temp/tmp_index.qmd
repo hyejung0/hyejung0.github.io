@@ -1,0 +1,77 @@
+---
+title: "Hyejung Lee"
+# listing:
+#   contents:
+#     - "main_*.qmd"
+#   type: table
+#   fields: [title]
+about:
+  template: jolla
+  # image: headshot.jpg
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/hyejung0
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/hyejung-lee-b2249819b/
+    - icon: envelope
+      text: E-Mail
+      href: mailto:hyejung.lee@utah.edu
+    - icon: file-earmark-arrow-down
+      text: CV
+      href: CV.pdf
+---
+
+
+::: {.hero}
+![](headshot.jpg){.headshot}
+
+
+**Ph.D. Biostatistician**
+
+[Learn More ↓](#welcome){.button}
+:::
+
+
+
+::: {.container}
+## Welcome {#welcome}
+
+Welcome to my website! Here you will find previous projects, current projects I can share, contact information, and more! But the webste is still under construction and messy. So please understand. To learn more about my statistical interest, please click [About](main_about.html){.button}.
+
+If there are any questions, comments, or concerns, please feel free to [contact me](mailto:hyejung.lee@utah.edu).
+:::
+
+
+
+
+
+<!-- ::: {.projects} -->
+
+<!-- ::: {.card} -->
+<!-- ### Treatment initiation timing for lung cancer -->
+<!-- Is following the guideline really helpful for extended survival? -->
+
+<!-- [View project](projects/wait_for_test/wait_for_test.html){.btn .btn-outline-primary .mt-2} -->
+<!-- ::: -->
+
+<!-- ::: {.card} -->
+<!-- ### Bayesian method to improve precision of treatment effect -->
+<!-- Incorporate surrogate endpoints information to increase precision. -->
+
+<!-- [View project](projects/MBE/MBE.html){.btn .btn-outline-primary .mt-2} -->
+<!-- ::: -->
+
+<!-- ::: {.card} -->
+<!-- ### Prognostic value of body composition in lung cancer patients -->
+<!-- To identify a non-invasive biomarker to estimate survival. -->
+
+<!-- [View project](projects/body_composition_serial/body_composition_serial.html){.btn .btn-outline-primary .mt-2} -->
+
+<!-- ::: -->
+
+<!-- ::: -->
+
+
+

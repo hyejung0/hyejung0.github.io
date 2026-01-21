@@ -1,0 +1,30 @@
+---
+title: "Research"
+---
+
+## Research interests
+
+My research spans **methodological biostatistics** and **applied clinical research**, with a focus on problems where study design and modeling choices materially affect clinical conclusions.
+
+### Methodological interests
+- **Causal inference** for observational data (e.g., inverse probability weighting; target trial thinking)  
+- **Time-to-event modeling** and individualized decision rules (e.g., dynamic treatment regimes)  
+- **Bayesian hierarchical modeling** for combining information across studies and endpoints  
+- **Longitudinal + survival analyses**, including joint modeling of repeated measures and survival outcomes  
+
+### Applied areas
+- **Cancer outcomes research** (e.g., lung cancer, prostate cancer)  
+- **Chronic disease** endpoints and surrogate outcomes (e.g., kidney disease)  
+- **Real-world data** and electronic health records  
+
+## Selected collaboration experience (examples)
+
+- **Treatment timing and decision optimization in advanced NSCLC** using nationwide longitudinal EHR data  
+- **Body composition and survival** in metastatic NSCLC using longitudinal imaging-derived measures  
+- **Proteomics and prognosis** in metastatic castration-resistant prostate cancer using high-plex protein assays  
+- **Ablation outcomes in atrial fibrillation** using clinical trial data and time-to-event methods  
+
+## Reproducible workflows
+
+I primarily work in **R**, with emphasis on reproducible pipelines, version control (Git/GitHub), and compute-aware workflows (parallel computing / HPC) when needed.
+
