@@ -1,22 +1,23 @@
 ---
 title: "Hyejung Lee"
-about:
-  template: trestles
-  image: img/headshot.jpg
-  links:
-    - icon: github
-      text: GitHub
-      href: https://github.com/hyejung0
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/hyejung-lee-b2249819b/
-    - icon: envelope
-      text: E-Mail
-      href: mailto:hyejung.lee@utah.edu
-    - icon: file-earmark-arrow-down
-      text: CV
-      href: CV.pdf
 ---
+<!-- about: -->
+<!--   template: solana -->
+<!--   #image: img/headshot.jpg -->
+<!--   links: -->
+<!--     - icon: github -->
+<!--       text: GitHub -->
+<!--       href: https://github.com/hyejung0 -->
+<!--     - icon: linkedin -->
+<!--       text: LinkedIn -->
+<!--       href: https://www.linkedin.com/in/hyejung-lee-b2249819b/ -->
+<!--     - icon: envelope -->
+<!--       text: E-Mail -->
+<!--       href: mailto:hyejung.lee@utah.edu -->
+<!--     - icon: file-earmark-arrow-down -->
+<!--       text: CV -->
+<!--       href: CV.pdf -->
+
 
 
 # About Me
@@ -75,4 +76,12 @@ B.Sc. in Pure Mathematics with minor in Applied Mathematics | 2010 -2014
 **Brigham Young University** | Graduate Research Assistant | Aug 2018 - Aug 2020
 
 
+
+
+## Contact
+
+- **Email:** [hyejung.lee@utah.edu](mailto:hyejung.lee@utah.edu)
+- **GitHub:** [hyejung0](https://github.com/hyejung0)
+- **LinkedIn:** [Profile](https://www.linkedin.com/in/hyejung-lee-b2249819b/)
+- **CV:** [Download PDF](CV.pdf)
 

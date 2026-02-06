@@ -34,6 +34,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-de070a7b0ab54f8780927367ac907214.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -146,37 +147,43 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-trestles">
-  <div class="about-entity">
-    <img src="img/headshot.jpg" class="about-image
-  rounded " style="width: 20em;">
+<main class="content" id="quarto-document-content">
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Hyejung Lee</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
+  
+
+
 </header>
-    <div class="about-links">
-  <a href="https://github.com/hyejung0" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">GitHub</span>
-  </a>
-  <a href="https://www.linkedin.com/in/hyejung-lee-b2249819b/" class="about-link" rel="" target="">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="mailto:hyejung.lee@utah.edu" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">E-Mail</span>
-  </a>
-  <a href="/CV.pdf" class="about-link" rel="" target="">
-    <i class="bi bi-file-earmark-arrow-down"></i>
-     <span class="about-link-text">CV</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
+
+
+<!-- about: -->
+<!--   template: solana -->
+<!--   #image: img/headshot.jpg -->
+<!--   links: -->
+<!--     - icon: github -->
+<!--       text: GitHub -->
+<!--       href: https://github.com/hyejung0 -->
+<!--     - icon: linkedin -->
+<!--       text: LinkedIn -->
+<!--       href: https://www.linkedin.com/in/hyejung-lee-b2249819b/ -->
+<!--     - icon: envelope -->
+<!--       text: E-Mail -->
+<!--       href: mailto:hyejung.lee@utah.edu -->
+<!--     - icon: file-earmark-arrow-down -->
+<!--       text: CV -->
+<!--       href: CV.pdf -->
 <section id="about-me" class="level1">
 <h1>About Me</h1>
 <p>I’m a biostatistician at the Division of Epidemiology at the University of Utah. I love turning complex data into clear stories that are informative and clearly tell actionable items.</p>
@@ -213,14 +220,29 @@ B.Sc. in Pure Mathematics with minor in Applied Mathematics | 2010 -2014</p>
 <p><strong>Huntsman Cancer Institute</strong> | Graduate Research Assistant | Aug 2020 - 2025</p>
 <p><strong>Biostatistics Intern</strong> | Regeneron Pharmaceuticals | May 2024 - Aug 2024</p>
 <p><strong>Brigham Young University</strong> | Graduate Research Assistant | Aug 2018 - Aug 2020</p>
+<section id="contact" class="level2">
+<h2 class="anchored" data-anchor-id="contact">Contact</h2>
+<ul>
+<li><strong>Email:</strong> <a href="mailto:hyejung.lee@utah.edu">hyejung.lee@utah.edu</a></li>
+<li><strong>GitHub:</strong> <a href="https://github.com/hyejung0">hyejung0</a></li>
+<li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/hyejung-lee-b2249819b/">Profile</a></li>
+<li><strong>CV:</strong> <a href="CV.pdf">Download PDF</a></li>
+</ul>
 
 
 </section>
-</main></div>
-</div>
- <!-- /main -->
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
