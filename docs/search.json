@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Hyejung Lee",
     "section": "",
-    "text": "I am a biostatistician with experience supporting collaborative clinical and translational research, particularly in oncology and chronic disease research. My work focuses on rigorous study design, reproducible statistical analysis in R, and clear communication of results to clinical collaborators.\nCurrent interests\n\nCausal inference and individualized treatment decision-making for time-to-event outcomes\n\nBayesian and hierarchical modeling for clinical trial endpoints and surrogate outcomes\n\nApplication of Bayesian Nonparametric methods\nHigh-performance / parallel computing workflows for scalable analyses in R"
+    "text": "I’m a biostatistician based in Utah, committed to using statistics in service of work that directly improves lives. I’m especially interested in collaborative research that helps underserved populations, from local communities to global settings.\nCurrent interests\n\nResearch that directly improves the lives of underserved populations\nCollaborative projects with clear, practical impact on care, access, or outcomes\nMission-driven health research across disease areas, from local to global settings\nRigorous statistical work that helps turn evidence into action"
   },
   {
     "objectID": "index.html#welcome",
@@ -137,14 +137,14 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My research spans methodological biostatistics and applied clinical research, with a focus on problems where study design and modeling choices materially affect clinical conclusions.\n\n\n\nCausal inference for observational data (e.g., inverse probability weighting; target trial thinking)\n\nTime-to-event modeling and individualized decision rules (e.g., dynamic treatment regimes)\n\nBayesian hierarchical modeling for combining information across studies and endpoints\n\nLongitudinal + survival analyses, including joint modeling of repeated measures and survival outcomes\n\n\n\n\n\nCancer outcomes research (e.g., lung cancer, prostate cancer)\n\nChronic disease endpoints and surrogate outcomes (e.g., kidney disease)\n\nReal-world data and electronic health records"
+    "text": "My research thus far have been application focused, with a focus on problems where study design and modeling choices materially affect clinical conclusions.\n\n\n\nCausal inference and survival analysis\nBayesian and hierarchical modeling\nNonparametric modeling\nScalable computing for complex analyses\n\n\n\n\n\nCancer outcomes research (e.g., lung cancer, prostate cancer)\n\nChronic disease endpoints and surrogate outcomes (e.g., kidney disease)\n\nReal-world data and electronic health records"
   },
   {
     "objectID": "research.html#research-interests",
     "href": "research.html#research-interests",
     "title": "Research",
     "section": "",
-    "text": "My research spans methodological biostatistics and applied clinical research, with a focus on problems where study design and modeling choices materially affect clinical conclusions.\n\n\n\nCausal inference for observational data (e.g., inverse probability weighting; target trial thinking)\n\nTime-to-event modeling and individualized decision rules (e.g., dynamic treatment regimes)\n\nBayesian hierarchical modeling for combining information across studies and endpoints\n\nLongitudinal + survival analyses, including joint modeling of repeated measures and survival outcomes\n\n\n\n\n\nCancer outcomes research (e.g., lung cancer, prostate cancer)\n\nChronic disease endpoints and surrogate outcomes (e.g., kidney disease)\n\nReal-world data and electronic health records"
+    "text": "My research thus far have been application focused, with a focus on problems where study design and modeling choices materially affect clinical conclusions.\n\n\n\nCausal inference and survival analysis\nBayesian and hierarchical modeling\nNonparametric modeling\nScalable computing for complex analyses\n\n\n\n\n\nCancer outcomes research (e.g., lung cancer, prostate cancer)\n\nChronic disease endpoints and surrogate outcomes (e.g., kidney disease)\n\nReal-world data and electronic health records"
   },
   {
     "objectID": "research.html#selected-collaboration-experience-examples",
