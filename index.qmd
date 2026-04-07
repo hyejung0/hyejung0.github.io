@@ -23,14 +23,14 @@ about:
       href: mailto:hyejung.lee@utah.edu
 ---
 
-I am a biostatistician with experience supporting collaborative clinical and translational research, particularly in oncology and chronic disease research. My work focuses on rigorous study design, reproducible statistical analysis in R, and clear communication of results to clinical collaborators.
+I’m a biostatistician based in Utah, committed to using statistics in service of work that directly improves lives. I’m especially interested in collaborative research that helps underserved populations, from local communities to global settings.
 
 **Current interests**
 
-- Causal inference and individualized treatment decision-making for time-to-event outcomes  
-- Bayesian and hierarchical modeling for clinical trial endpoints and surrogate outcomes  
-- Application of Bayesian Nonparametric methods 
-- High-performance / parallel computing workflows for scalable analyses in R  
+- Research that directly improves the lives of underserved populations
+- Collaborative projects with clear, practical impact on care, access, or outcomes
+- Mission-driven health research across disease areas, from local to global settings
+- Rigorous statistical work that helps turn evidence into action
 
 <!-- Replace the subtitle and links above with your preferred title, lab/center, and profiles. -->
 

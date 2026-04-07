@@ -4,13 +4,13 @@ title: "Research"
 
 ## Research interests
 
-My research spans **methodological biostatistics** and **applied clinical research**, with a focus on problems where study design and modeling choices materially affect clinical conclusions.
+My research thus far have been application focused, with a focus on problems where study design and modeling choices materially affect clinical conclusions.
 
 ### Methodological interests
-- **Causal inference** for observational data (e.g., inverse probability weighting; target trial thinking)  
-- **Time-to-event modeling** and individualized decision rules (e.g., dynamic treatment regimes)  
-- **Bayesian hierarchical modeling** for combining information across studies and endpoints  
-- **Longitudinal + survival analyses**, including joint modeling of repeated measures and survival outcomes  
+- Causal inference and survival analysis
+- Bayesian and hierarchical modeling
+- Nonparametric modeling
+- Scalable computing for complex analyses
 
 ### Applied areas
 - **Cancer outcomes research** (e.g., lung cancer, prostate cancer)  
